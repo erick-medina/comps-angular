@@ -11,6 +11,7 @@ Angular app using Semantic UI and implementing Modules, Routing and reusable com
 * Angular Routing.
 * Separating Modules to group together each set of components.
 * Adding Semantic UI to the app and implementing functionality purely on Angular.
+* Implementing Lazy Loading.
 
 ## Development server
 
